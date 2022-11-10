@@ -7,4 +7,5 @@ Performing analysis on Kickstarter Data to uncover trends
 Based on the analysis it may be useful for Louise to begin her kickstarter campaign early in the year rather than late in the year, because the alysis shows that the most successful campaigns began in March and steadily inclined through May. It then saw a decline in success over the later months. 
 In addition, it appears that theater was one of the more favorable parent categories to have success compared to others which is a good sign for Louise. Futhermore, when the categories are broken down into subcategories 'plays' stand out the most. They are the most common campaigns in the data and surely have the most successful attempts then any other category. 
 Also, when looking at the descriptive statistics failed kickstarter campaigns had a much higher fundraising goals than successful Kickstarter campaigns. Meaning if Louise is looking for more than twice the average successful Kickstarter goal, it leaves a bigger chance of the campaign failing.  
-![image](https://user-images.githubusercontent.com/117120227/201201362-37f558f6-fff5-4fbe-a7ed-63d18728c258.png)
+![image](https://user-images.githubusercontent.com/117120227/201201498-72a9053e-1b8f-493a-8724-5b4cc11be671.png)
+
