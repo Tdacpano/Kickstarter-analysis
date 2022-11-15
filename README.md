@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
-Data analysis of various kickstarter campaigns success and failure rate along with the duration of the campaigns from all over the globe. 
+This is a data analysis of various theater kickstarter campaigns, specifically plays, success rate in relationn to their launch date and the goals set of each of the campaigns.  
 Performing analysis on Kickstarter Data to uncover trends 
-Based on the analysis it may be useful for Louise to begin her kickstarter campaign early in the year rather than late in the year, because the alysis shows that the most successful campaigns began in March and steadily inclined through May. It then saw a decline in success over the later months. 
+Based on the data it may be useful for Louise to begin her kickstarter campaign early in the year rather than late in the year, because the analysis shows that the most successful campaigns began in March and steadily inclined through May. It then saw a decline in success over the later months, specifically December. 
 In addition, it appears that theater was one of the more favorable parent categories to have success compared to others which is a good sign for Louise. Futhermore, when the categories are broken down into subcategories 'plays' stand out the most. They are the most common campaigns in the data and surely have the most successful attempts then any other category. 
 Also, when looking at the descriptive statistics failed kickstarter campaigns had a much higher fundraising goals than successful Kickstarter campaigns. Meaning if Louise is looking for more than twice the average successful Kickstarter goal, it leaves a bigger chance of the campaign failing.  
 ![Outcomes based on Launch Date](https://user-images.githubusercontent.com/117120227/201197381-e0a78754-800d-4c7a-8c13-88fe973b4b8a.png)
