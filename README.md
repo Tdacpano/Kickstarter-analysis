@@ -11,7 +11,7 @@ It appers that theater fundraising campaigns are most successful when its launch
 ### Analysis of Outcomes Based on Goals
 In terms of the percentage of successful campaigns based on their fundraising goals it shows that as campaigns increase their goals the success rate begins to drop. Interestingly, there is a rise in successful campagins beginning around $25,000 to $29,999 up until $40,000-$44,999. Then a sharp decline in success once campaign goals goes past $44,999.
 ### Challenges and Difficulties Encountered
-There were a few challenges 
+Some challenges encountered was trying to create new data categories with the data we already had. We had to use the Unix Timestamp converter to confirm the dates that each kickstarter campaign began and ended. We additionally had to filter out parent categories and subcategories to indentify if there were any realtionships between the two and its success rate. Addtionally, to easily understand which campaigns recieved their full funding we had to color coordinate the successfully funded and those that recieved partial funding. 
 
 ## Results
 
