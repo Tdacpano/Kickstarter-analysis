@@ -6,7 +6,7 @@ This analysis project is created to help Louise compare how other fundraising ca
 The purpose was to provide an analysis of fundraising campaigns success rate in relation to their launch date and the amount of money attempting to raise. 
 ## Analysis and Challenges
 ## Analysis of Outcomes Based on Launch Date
-It appers that theater fundraising campaigns are most successful when its launch date was in May and least succesful when it began in December. Additionally, there is a sharp rise in successful campaigns in April. The failed campaigns were pretty constant throughout the calender year, no real relation appears to exist. 
+It appers that theater fundraising campaigns are most successful when its launch date was in May and least succesful when it began in December. The increase began in the month of March with 56 succesful campagins, followed by 71 in April, 111 in May and 100 successful campagins in June. The failed campaigns were pretty constant throughout the calender year, it had the lowest successful campaigns with only 37 succeeding and 35 failing. The declinne begins in October, dropping successful campagins from 65 to 54 to ultimately down to 37. 
 
 ### Analysis of Outcomes Based on Goals
 In terms of the percentage of successful campaigns based on their fundraising goals it shows that as campaigns increase their goals the success rate begins to drop. Interestingly, there is a rise in successful campagins beginning around $25,000 to $29,999 up until $40,000-$44,999. Then a sharp decline in success once campaign goals goes past $44,999.
@@ -16,8 +16,8 @@ There were a few challenges
 ## Results
 
 ## What are two conclusions you can draw about the Outcomes based on Launch Date?
-It is best to have a launch date in the middle of the year, preferrably around May would give the best opportunity to be successful. The increase began in the month of March with 56 succesful campagins, followed by 71 in April, 111 in May and 100 successful campagins in June.
-Addtionally, the worst timing would be starting a launch date at the end of the year, especially December. It had the lowest successful campaigns with only 37 succeeding and 35 failing. The declinne begins in October, dropping successful campagins from 65 to 54 to ultimately down to 37. 
+It is best to have a launch date in the middle of the year, preferrably around May would give the best opportunity to be successful.
+Addtionally, the worst timing would be starting a launch date at the end of the year, beginning anytime between October through December. 
 
  ## What can you conclude about the Outcomes based on Goals?
     It appears that as campaign goals are increased from less than $1,000 up to $25,000 - $29,000 there is a steady decline in success from 80% successful down to 20%. Suprisingly, there is found success with campaigns that have goals between $25,000 - $29,000 and $40,000 - $44,999. These goals go from 20% success up to almost 70% success. Anything above $44,999 was met with a sharp decline downn to 0% successful. 
