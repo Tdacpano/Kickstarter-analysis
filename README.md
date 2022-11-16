@@ -28,7 +28,6 @@ Addtionally, the worst timing would be starting a launch date at the end of the 
 We could possibly create a table that shows the average donation for campaigns that were successful, canceled, or failed. We could compare the average donation to the launch date as well to see if there is a relationship between launch date and the willingness of people average donation. 
 ![Outcomes_vs_Goalspng](https://user-images.githubusercontent.com/117120227/202250680-38974c58-f186-42c7-a0bc-63f193606df4.png)
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/117120227/202250697-16563bac-eef6-4472-adc0-07d252137f9a.png)
-![Outcomes based on Launch Date](https://user-images.githubusercontent.com/117120227/201197381-e0a78754-800d-4c7a-8c13-88fe973b4b8a.png)
 ![Parent Category Outcomes ](https://user-images.githubusercontent.com/117120227/201197406-88a7d9a7-2cd5-493f-81b0-f9250787714d.png)
 ![SubCategory Outcomes](https://user-images.githubusercontent.com/117120227/201197435-ef8e87d8-b5ed-4183-9fe8-6fe37ee81c84.png)
 ![image](https://user-images.githubusercontent.com/117120227/201201498-72a9053e-1b8f-493a-8724-5b4cc11be671.png)
